@@ -1,6 +1,5 @@
 <h1>Hi, I'm Jaydn! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/jaydn-serrano-5221321b4/">IT Specialist</a>, <a href="https://www.instagram.com/js.snaps_/">Photographer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
 
 
 <h2>Certifications</h2>
